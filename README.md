@@ -1,11 +1,11 @@
 
-# File Compression Program
+# File Compression Script
 
 ## Description
-This Python program allows users to compress files and folders to any compressed file type they choose (e.g., .zip, .tar, .tgz, etc.). It prompts the user to select the folder to compress and then displays a list of available compressed file types. The user can select the desired compressed file type from the list, and the program compresses the selected folder using the chosen file type. If the user selects .zip, the compressed file will be saved as "name_of_the_folder_date_month_year.zip".
+This Python script file allows users to compress files and folders to any compressed file type they choose (e.g., .zip, .tar, .tgz, etc.). It prompts the user to select the folder to compress and then displays a list of available compressed file types. The user can select the desired compressed file type from the list, and the program compresses the selected folder using the chosen file type. If the user selects .zip, the compressed file will be saved as "name_of_the_folder_date_month_year.zip".
 
 ## How to Run
-- Run the program by executing the following command in your terminal or command prompt:
+- Run the file by executing the following command in your terminal or command prompt:
 
     ```bash
     compressor.py
@@ -19,4 +19,4 @@ This Python program allows users to compress files and folders to any compressed
 - [Ines Ikirezi]
 
 ## Notes
-- This program uses the `tarfile` library to create tar archives and the `zipfile` library to create zip archives.
+- This file script uses the `tarfile` library to create tar archives and the `zipfile` library to create zip archives.
