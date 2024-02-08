@@ -17,7 +17,7 @@ This Python script file allows users to compress files and folders to any compre
 - [Ngum Dieudonne]
 - [Jules Gatete]
 - [Inès IKIREZ]
-- [Bosco ISHIMWE]
+- [Bosco Ishimwe]
 
 ## Notes
 - This file script uses the `tarfile` library to create tar archives and the `zipfile` library to create zip.tar, .tgz, etc. archives.
